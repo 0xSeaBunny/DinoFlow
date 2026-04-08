@@ -1,5 +1,7 @@
 # DinoFlow 
 
+![](https://github.com/0xSeaBunny/DinoFlow/blob/main/extra/Images/DinoFlow_Logo5.png)
+
 **DinoFlow** is an open source python based program that is meant to allow anyone to easily turn local Ollama models into autonomous agents complete with memory and great tools. The goal is to take away the price point and confusing nature of OpenClaw / HermesAgent while still providing a useful agent for your computer. 
 
 # -> How To Install/Use :
