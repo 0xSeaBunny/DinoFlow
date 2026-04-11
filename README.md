@@ -133,6 +133,13 @@
    > - 5: Click Mouse
 </details>
 
+<details>
+  <summary><b>APIs 🌐</b></summary>
+  
+  - **Reddit API:** Your agent can use the reddit api to quickly grab posts, comments, and general summaries from reddit about a specific topic, a specific sub reddit, or just general news, sports, ec.
+  - **Tavily API:** Tavily is an API that acts as a search engine for LLMs, with them allowing you up to 1,000 free searches every month. With this tool, your agent can quickly grab infomation from all over the web faster than you could get through the first site.
+</details>
+
 # FAQ ❓:
 
 > **- Q: Why is DinoFlow built in python?**
