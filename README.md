@@ -56,7 +56,7 @@
 <details>
   <summary><b>Main Features 🦎</b></summary>
   
-  - **🤖Agents:**Agents act as profiles, where you can save an agent name, the model it uses, and a custom system prompt as an "agent", It's "Minions", it's "Databases", and the tools it has access to. This system allows you to create agents for specific situations, while also allowing you to easily swap between them.
+  - **🤖Agents:** Agents act as profiles, where you can save an agent name, the model it uses, and a custom system prompt as an "agent", It's "Minions", it's "Databases", and the tools it has access to. This system allows you to create agents for specific situations, while also allowing you to easily swap between them.
 
   - **:clock130:Tasks:** Tasks are prompts that will be automatically sent to your agent. You can set them to be sent one or repeat, alongside picking if you want the timer on it to go off at a specific time, or just wait in minutes 
   
