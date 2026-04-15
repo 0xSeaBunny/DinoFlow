@@ -1,0 +1,9 @@
+# v1.0.2:
+*This is a live change log*
+
+## New Features
+- Added time stamps to all chat messages.
+- Tool usage messages are now yellow
+
+## Bug Fixes / Refactors
+- refactored scroll bar
