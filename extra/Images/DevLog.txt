@@ -1,0 +1,3 @@
+# v1.0.2:
+
+**- Chat History:** Some models were having issues understanding that the chat history is just context, and not the actual prompt at hand. My main idea to fix this is to make the raw chat history something the model can pull when needed through a tool, meanwhile only the last 3 messages will be sent every message.
