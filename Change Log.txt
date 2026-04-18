@@ -2,7 +2,7 @@
 *This is a live change log*
 
 ## New Features
-- The chat history that is sent to the model, is now based on how large the model's context window is, with it starting to summarize and erase the oldest messages once the your total context usuage hits 80% of its max.
+- The chat history that is sent to the model has been re worked to only be a summary, and then a new tool has been added that allows the model to pull the full chat history when needed.
 - Added time stamps to all chat messages.
 - Tool usage messages are now yellow
 
