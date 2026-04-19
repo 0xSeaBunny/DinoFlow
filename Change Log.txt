@@ -6,5 +6,8 @@
 - Added time stamps to all chat messages.
 - Tool usage messages are now yellow
 
+## New Tools:
+**- Compare Text Files:** This tool will allow your model to take two files that have text in them (.md, .txt, .py, .cs, etc) and figure out whats different between them.
+
 ## Bug Fixes / Refactors
 - refactored scroll bar
